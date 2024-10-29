@@ -8,7 +8,7 @@ def draw():
             rect(x * 10, y * 10, 10, 10)
 
     fill(0)
-    rect(16 * 10, 24 * 10, 10, 10)
+    rect(16 * 10, 24 * 10, 10, 10) # grouped by y coordinates from high to low 
     rect(17 * 10, 24 * 10, 10, 10)
     rect(18 * 10, 24 * 10, 10, 10)
     rect(19 * 10, 24 * 10, 10, 10)
