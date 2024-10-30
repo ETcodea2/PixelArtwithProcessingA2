@@ -6,7 +6,7 @@ def draw():
         for x in range(40):
             fill(255)
             rect(x * 10, y * 10, 10, 10)
-    fill(255, 0, 0)  # Set fill color to red/group by y coord for organisation 
+    fill(255, 0, 0)  # Set to red/group by y coord for organisation 
     rect(16 * 10, 29 * 10, 10, 10)
     rect(17 * 10, 29 * 10, 10, 10)
     rect(18 * 10, 29 * 10, 10, 10)
