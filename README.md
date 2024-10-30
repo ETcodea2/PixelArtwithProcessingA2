@@ -13,7 +13,7 @@ Launch
 • Download and install the Processing. Copy and Paste code, then run. 
 
 Scope of functionalities 
-	•	Creation of a 40x40 pixel grid where each pixel is represented as a 10x10 rectangle.
+	•	Creation of a 40x40 pixel grid where each pixel is represented as a 10x10 square.
 	•	Utilise the setup() function to initialise the canvas and set dimensions.
 	•	Use the draw() function to render graphics in real-time continuously.
 	•	Ability to fill specific pixels with colour using the fill() function.
